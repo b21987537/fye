@@ -14,7 +14,7 @@ public class AnalyzeImage {
     // *** Update or verify the following values. ***
     // **********************************************
 
-    private static String subscriptionKey = "d0093a6f04bc41d5a010a4938b3e2d65";
+    private static String subscriptionKey = "";
     private static String endpoint = "https://fye.cognitiveservices.azure.com/";
 
     private static final String uriBase = endpoint + "vision/v3.1/analyze";
