@@ -5,7 +5,7 @@ import com.google.gson.*;
 import com.squareup.okhttp.*;
 
 public class Translate2 {
-    private static String key = "68a67d2f383a40b5b3b3a98f8137564b";
+    private static String key = "";
 
     // Add your location, also known as region. The default is global.
     // This is required if using a Cognitive Services resource.
